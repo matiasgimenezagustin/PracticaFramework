@@ -1,0 +1,46 @@
+
+.header{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 3%;
+    background-color: rgb(228, 226, 225);
+}
+.carrusel{
+    width: 90%;
+    
+}
+.title{
+    font-family: 'Anton', sans-serif;
+}
+.subTitle{
+    font-family: 'Dosis', sans-serif;
+}
+.cajaUno{
+    text-align: center;
+    margin-top: 5%;
+}
+.cajaUnoText{
+    font-family: 'Dosis', sans-serif;
+}
+.seleccionador{
+    margin-top: 4%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin: 1%;
+}
+.card-title{
+    font-family: 'Anton', sans-serif;
+}
+.card-text{
+    font-family: 'Dosis', sans-serif;
+    font-size: x-large;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
